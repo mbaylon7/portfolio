@@ -28,8 +28,4 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
-css
-fonts
-img
-js
 README.md
