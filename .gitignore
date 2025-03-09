@@ -28,5 +28,4 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
-README.md
-assets/img/
+README.node_modules
