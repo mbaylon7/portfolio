@@ -1722,7 +1722,7 @@ banner
 }
 @media screen and (max-width: 992px) {
   .mil-banner-personal .mil-banner-content .mil-personal-text {
-    margin-bottom: 80px;
+    margin-bottom: 0;
     text-align: center;
   }
 }
@@ -1826,8 +1826,8 @@ banner
 .mil-portrait-frame img {
   position: relative;
   bottom: 140px;
-  width: 50rem;
-  right: 38%;
+  width: 56rem;
+  right: 45%;
   height: 100%;
   -o-object-fit: contain;
   object-fit: contain;
@@ -1848,6 +1848,9 @@ banner
        object-fit: cover;
     -o-object-position: top;
        object-position: top;
+    width: 100%;
+    bottom: 0;
+    right: 0;
   }
 }
 
